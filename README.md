@@ -16,10 +16,10 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Commercial Business](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Commercial%20Business)  >>  A Business Card with NFC
 
 # A Business Card with NFC
+This is my take on the Business Card designed and prototyped by Makers like [Lloann Boudin](http://twitter.com/loann_boudin) and available on Instructables here: https://www.instructables.com/PCB-Business-Card-With-NFC/
+and also by Joep1986, available here: https://www.instructables.com/Digital-Business-Card-With-NFC/.
 
-https://www.instructables.com/PCB-Business-Card-With-NFC/
-
-https://www.instructables.com/Digital-Business-Card-With-NFC/
+I've made some changes in particular added a copper track around the light bulb so it can be easier to protect circuitry with a transparent liquid acrylic.
 
 <p align="center">
 <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_front.jpg">
