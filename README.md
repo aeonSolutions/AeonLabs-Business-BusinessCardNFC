@@ -21,6 +21,16 @@ https://www.instructables.com/PCB-Business-Card-With-NFC/
 
 https://www.instructables.com/Digital-Business-Card-With-NFC/
 
+<p align="center">
+<img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_front.jpg">
+<img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_back.jpg">
+</p>
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/business_card/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/business_card/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
 <br />
 
 ## Author
