@@ -17,7 +17,8 @@
 
 # A Business Card with NFC
 This is my take on the Business Card designed and prototyped by Makers like [Lloann Boudin](http://twitter.com/loann_boudin) and available on Instructables here: https://www.instructables.com/PCB-Business-Card-With-NFC/
-and also by Joep1986, available here: https://www.instructables.com/Digital-Business-Card-With-NFC/.
+and also by Joep1986, available here: https://www.instructables.com/Digital-Business-Card-With-NFC/ and by [Dmitry Shlenkevitch](https://github.com/Dima-Shlenkevitch) here: https://github.com/Dima-Shlenkevitch/NFC-Business-Card
+]
 
 I've made some changes in particular added a copper track around the light bulb so it can be easier to protect circuitry with a transparent liquid acrylic. This business card feels better on touch when fabricated with a thickness of 0.4mm. 
 
