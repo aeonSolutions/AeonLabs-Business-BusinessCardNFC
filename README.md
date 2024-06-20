@@ -19,11 +19,11 @@
 This is my take on the Business Card designed and prototyped by Makers like [Lloann Boudin](http://twitter.com/loann_boudin) and available on Instructables here: https://www.instructables.com/PCB-Business-Card-With-NFC/
 and also by Joep1986, available here: https://www.instructables.com/Digital-Business-Card-With-NFC/.
 
-I've made some changes in particular added a copper track around the light bulb so it can be easier to protect circuitry with a transparent liquid acrylic.
+I've made some changes in particular added a copper track around the light bulb so it can be easier to protect circuitry with a transparent liquid acrylic. This business card feels better on touch when fabricated with a thickness of 0.4mm. 
 
 <p align="center">
-<img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_front.jpg">
-<img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_back.jpg">
+<img width="48%" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_front.jpg">
+<img width="48%" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_back.jpg">
 </p>
 <p align="center">
 <strong> <a href="https://aeonsolutions.github.io/sponsor/business_card/">Interactive view of the PCB Layout</a> </strong> &nbsp;
